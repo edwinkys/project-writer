@@ -11,6 +11,7 @@ To start the web app using docker, `cd` to the app directory and run the command
 
 
 <br />
+
 After you work, you can close the docker image and the web app by running the command below:
 
     docker-compose stop
